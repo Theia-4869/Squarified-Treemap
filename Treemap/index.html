@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8" />
+	<title>Treemap Example</title>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/d3.v6.min.js"></script>
+	<link rel="stylesheet" href="css/w3.css" />
+	<link rel="stylesheet" href="css/style.css" />
+</head>
+<style type="text/css">
+	#neon-btn {
+		display: flex;
+		align-items: center;
+		justify-content: space-around;
+		/* height: 100vh; */
+		width: 1764.5px;
+		background: #031628;
+	}
+
+	.btn {
+		border: 1px solid;
+		background-color: transparent;
+		text-transform: uppercase;
+		z font-size: 14px;
+		padding: 10px 20px;
+		font-weight: 300;
+	}
+	
+	.btn-click {
+		border: 1px solid;
+		background-color: white;
+		text-transform: uppercase;
+		z font-size: 14px;
+		padding: 10px 20px;
+		font-weight: 300;
+	}
+
+	.one {
+		color: #4cc9f0;
+	}
+
+	.two {
+		color: #f038ff;
+	}
+
+	.three {
+		color: #b9e769;
+	}
+
+	.btn:hover {
+		color: white;
+		border: 0;
+	}
+	
+	.btn-click:hover {
+		color: white;
+		border: 0;
+	}
+
+	.one:hover {
+		background-color: #4cc9f0;
+		-webkit-box-shadow: 10px 10px 99px 6px rgba(76, 201, 240, 1);
+		-moz-box-shadow: 10px 10px 99px 6px rgba(76, 201, 240, 1);
+		box-shadow: 10px 10px 99px 6px rgba(76, 201, 240, 1);
+	}
+
+	.two:hover {
+		background-color: #f038ff;
+		-webkit-box-shadow: 10px 10px 99px 6px rgba(240, 56, 255, 1);
+		-moz-box-shadow: 10px 10px 99px 6px rgba(240, 56, 255, 1);
+		box-shadow: 10px 10px 99px 6px rgba(240, 56, 255, 1);
+	}
+
+	.three:hover {
+		background-color: #b9e769;
+		-webkit-box-shadow: 10px 10px 99px 6px rgba(185, 231, 105, 1);
+		-moz-box-shadow: 10px 10px 99px 6px rgba(185, 231, 105, 1);
+		box-shadow: 10px 10px 99px 6px rgba(185, 231, 105, 1);
+	}
+</style>
+<body>
+	<div id="neon-btn">
+		<button class="btn one" id="si">si-level</button>
+		<button class="btn two" id="fu">fu-level</button>
+		<button class="btn-click three" id="xian">xian-level</button>
+	</div>
+	<div id="si_treemap" style="display: none;"></div>
+	<div id="fu_treemap" style="display: none;"></div>
+	<div id="xian_treemap"></div>
+	<script type="text/javascript" src="js/main.js"></script>
+	<script type="text/javascript">
+		var si = document.getElementById('si');
+		var fu = document.getElementById('fu');
+		var xian = document.getElementById('xian');
+
+		var si_treemap = document.getElementById('si_treemap');
+		var fu_treemap = document.getElementById('fu_treemap');
+		var xian_treemap = document.getElementById('xian_treemap');
+
+		si.onclick = function() {
+			si_treemap.style.display = '';
+			fu_treemap.style.display = 'none';
+			xian_treemap.style.display = 'none';
+			$(this).removeClass("btn");
+			$(this).addClass("btn-click");
+			$(this).siblings().removeClass("btn-click");
+			$(this).siblings().addClass("btn");
+		}
+		fu.onclick = function() {
+			si_treemap.style.display = 'none';
+			fu_treemap.style.display = '';
+			xian_treemap.style.display = 'none';
+			$(this).removeClass("btn");
+			$(this).addClass("btn-click");
+			$(this).siblings().removeClass("btn-click");
+			$(this).siblings().addClass("btn");
+		}
+		xian.onclick = function() {
+			si_treemap.style.display = 'none';
+			fu_treemap.style.display = 'none';
+			xian_treemap.style.display = '';
+			$(this).removeClass("btn");
+			$(this).addClass("btn-click");
+			$(this).siblings().removeClass("btn-click");
+			$(this).siblings().addClass("btn");
+		}
+	</script>
+</body>

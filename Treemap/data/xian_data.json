@@ -1,0 +1,5162 @@
+{
+    "name": "mingjinshi",
+    "children": [
+        {
+            "name": "南直隸",
+            "children": [
+                {
+                    "name": "蘇州",
+                    "children": [
+                        {
+                            "name": "崑山",
+                            "value": 143
+                        },
+                        {
+                            "name": "吳縣",
+                            "value": 121
+                        },
+                        {
+                            "name": "常熟",
+                            "value": 120
+                        },
+                        {
+                            "name": "長洲",
+                            "value": 115
+                        },
+                        {
+                            "name": "吳江",
+                            "value": 67
+                        },
+                        {
+                            "name": "嘉定",
+                            "value": 43
+                        },
+                        {
+                            "name": "太倉",
+                            "value": 41
+                        },
+                        {
+                            "name": "嘉興",
+                            "value": 1
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "江陰",
+                            "value": 1
+                        }
+                    ],
+                    "value": 653
+                },
+                {
+                    "name": "常州",
+                    "children": [
+                        {
+                            "name": "無錫",
+                            "value": 118
+                        },
+                        {
+                            "name": "武進",
+                            "value": 111
+                        },
+                        {
+                            "name": "江陰",
+                            "value": 47
+                        },
+                        {
+                            "name": "宜興",
+                            "value": 42
+                        },
+                        {
+                            "name": "其他",
+                            "value": 2
+                        }
+                    ],
+                    "value": 320
+                },
+                {
+                    "name": "松江",
+                    "children": [
+                        {
+                            "name": "華亭",
+                            "value": 154
+                        },
+                        {
+                            "name": "上海",
+                            "value": 80
+                        }
+                    ],
+                    "value": 234
+                },
+                {
+                    "name": "徽州",
+                    "children": [
+                        {
+                            "name": "歙縣",
+                            "value": 81
+                        },
+                        {
+                            "name": "婺源",
+                            "value": 53
+                        },
+                        {
+                            "name": "休寧",
+                            "value": 32
+                        },
+                        {
+                            "name": "祁門",
+                            "value": 32
+                        },
+                        {
+                            "name": "績溪",
+                            "value": 9
+                        },
+                        {
+                            "name": "黟縣",
+                            "value": 4
+                        }
+                    ],
+                    "value": 211
+                },
+                {
+                    "name": "揚州",
+                    "children": [
+                        {
+                            "name": "江都",
+                            "value": 43
+                        },
+                        {
+                            "name": "高郵",
+                            "value": 42
+                        },
+                        {
+                            "name": "泰州",
+                            "value": 31
+                        },
+                        {
+                            "name": "通州",
+                            "value": 21
+                        },
+                        {
+                            "name": "泰興",
+                            "value": 12
+                        },
+                        {
+                            "name": "儀真",
+                            "value": 8
+                        },
+                        {
+                            "name": "其他",
+                            "value": 2
+                        }
+                    ],
+                    "value": 159
+                },
+                {
+                    "name": "應天",
+                    "children": [
+                        {
+                            "name": "上元",
+                            "value": 29
+                        },
+                        {
+                            "name": "溧陽",
+                            "value": 29
+                        },
+                        {
+                            "name": "句容",
+                            "value": 28
+                        },
+                        {
+                            "name": "江寧",
+                            "value": 23
+                        },
+                        {
+                            "name": "江浦",
+                            "value": 9
+                        },
+                        {
+                            "name": "溧水",
+                            "value": 7
+                        },
+                        {
+                            "name": "六合",
+                            "value": 4
+                        },
+                        {
+                            "name": "高淳",
+                            "value": 4
+                        },
+                        {
+                            "name": "其他",
+                            "value": 2
+                        },
+                        {
+                            "name": "懷慶",
+                            "value": 1
+                        }
+                    ],
+                    "value": 136
+                },
+                {
+                    "name": "鳳陽",
+                    "children": [
+                        {
+                            "name": "定遠",
+                            "value": 18
+                        },
+                        {
+                            "name": "泗州",
+                            "value": 15
+                        },
+                        {
+                            "name": "宿州",
+                            "value": 10
+                        },
+                        {
+                            "name": "鳳陽",
+                            "value": 10
+                        },
+                        {
+                            "name": "臨淮",
+                            "value": 9
+                        },
+                        {
+                            "name": "壽州",
+                            "value": 9
+                        },
+                        {
+                            "name": "頴州",
+                            "value": 6
+                        },
+                        {
+                            "name": "懷遠",
+                            "value": 5
+                        },
+                        {
+                            "name": "毫州",
+                            "value": 5
+                        },
+                        {
+                            "name": "五河",
+                            "value": 3
+                        },
+                        {
+                            "name": "虹縣",
+                            "value": 2
+                        },
+                        {
+                            "name": "頴上",
+                            "value": 2
+                        },
+                        {
+                            "name": "其他",
+                            "value": 2
+                        }
+                    ],
+                    "value": 96
+                },
+                {
+                    "name": "寧國",
+                    "children": [
+                        {
+                            "name": "宣城",
+                            "value": 32
+                        },
+                        {
+                            "name": "涇縣",
+                            "value": 29
+                        },
+                        {
+                            "name": "旌德",
+                            "value": 6
+                        },
+                        {
+                            "name": "太平",
+                            "value": 6
+                        },
+                        {
+                            "name": "南陵",
+                            "value": 4
+                        },
+                        {
+                            "name": "寧國",
+                            "value": 4
+                        }
+                    ],
+                    "value": 81
+                },
+                {
+                    "name": "廬州",
+                    "children": [
+                        {
+                            "name": "合肥",
+                            "value": 28
+                        },
+                        {
+                            "name": "無為",
+                            "value": 21
+                        },
+                        {
+                            "name": "舒城",
+                            "value": 11
+                        },
+                        {
+                            "name": "六安",
+                            "value": 11
+                        },
+                        {
+                            "name": "廬江",
+                            "value": 4
+                        },
+                        {
+                            "name": "冀州",
+                            "value": 1
+                        },
+                        {
+                            "name": "英山",
+                            "value": 1
+                        }
+                    ],
+                    "value": 77
+                },
+                {
+                    "name": "安慶",
+                    "children": [
+                        {
+                            "name": "桐城",
+                            "value": 34
+                        },
+                        {
+                            "name": "懷寧",
+                            "value": 19
+                        },
+                        {
+                            "name": "潛山",
+                            "value": 12
+                        },
+                        {
+                            "name": "太湖",
+                            "value": 7
+                        },
+                        {
+                            "name": "望江",
+                            "value": 4
+                        }
+                    ],
+                    "value": 76
+                },
+                {
+                    "name": "鎮江",
+                    "children": [
+                        {
+                            "name": "丹徒",
+                            "value": 35
+                        },
+                        {
+                            "name": "金壇",
+                            "value": 24
+                        },
+                        {
+                            "name": "丹陽",
+                            "value": 16
+                        },
+                        {
+                            "name": "壇縣",
+                            "value": 1
+                        }
+                    ],
+                    "value": 76
+                },
+                {
+                    "name": "淮安",
+                    "children": [
+                        {
+                            "name": "山陽",
+                            "value": 29
+                        },
+                        {
+                            "name": "海州",
+                            "value": 8
+                        },
+                        {
+                            "name": "沭陽",
+                            "value": 7
+                        },
+                        {
+                            "name": "邳州",
+                            "value": 5
+                        },
+                        {
+                            "name": "安東",
+                            "value": 4
+                        },
+                        {
+                            "name": "鹽城",
+                            "value": 4
+                        },
+                        {
+                            "name": "清河",
+                            "value": 3
+                        },
+                        {
+                            "name": "桃源",
+                            "value": 3
+                        },
+                        {
+                            "name": "其他",
+                            "value": 2
+                        }
+                    ],
+                    "value": 65
+                },
+                {
+                    "name": "池州",
+                    "children": [
+                        {
+                            "name": "青陽",
+                            "value": 12
+                        },
+                        {
+                            "name": "貴池",
+                            "value": 11
+                        },
+                        {
+                            "name": "建德",
+                            "value": 8
+                        },
+                        {
+                            "name": "石埭",
+                            "value": 5
+                        },
+                        {
+                            "name": "銅陵",
+                            "value": 4
+                        },
+                        {
+                            "name": "東流",
+                            "value": 1
+                        }
+                    ],
+                    "value": 41
+                },
+                {
+                    "name": "太平",
+                    "children": [
+                        {
+                            "name": "當塗",
+                            "value": 29
+                        },
+                        {
+                            "name": "繁昌",
+                            "value": 5
+                        },
+                        {
+                            "name": "蕪湖",
+                            "value": 5
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "槃昌",
+                            "value": 1
+                        }
+                    ],
+                    "value": 41
+                },
+                {
+                    "name": "滁州",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 10
+                        },
+                        {
+                            "name": "全椒",
+                            "value": 7
+                        },
+                        {
+                            "name": "來安",
+                            "value": 6
+                        }
+                    ],
+                    "value": 23
+                },
+                {
+                    "name": "廣德州",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 16
+                        },
+                        {
+                            "name": "建平",
+                            "value": 3
+                        }
+                    ],
+                    "value": 19
+                },
+                {
+                    "name": "徐州",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 8
+                        },
+                        {
+                            "name": "沛縣",
+                            "value": 4
+                        },
+                        {
+                            "name": "碭山",
+                            "value": 1
+                        },
+                        {
+                            "name": "豐縣",
+                            "value": 1
+                        },
+                        {
+                            "name": "蕭縣",
+                            "value": 1
+                        }
+                    ],
+                    "value": 15
+                },
+                {
+                    "name": "和州",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 7
+                        },
+                        {
+                            "name": "含山",
+                            "value": 3
+                        }
+                    ],
+                    "value": 10
+                }
+            ],
+            "value": 2333
+        },
+        {
+            "name": "浙江",
+            "children": [
+                {
+                    "name": "紹興",
+                    "children": [
+                        {
+                            "name": "餘姚",
+                            "value": 264
+                        },
+                        {
+                            "name": "山陰",
+                            "value": 99
+                        },
+                        {
+                            "name": "會稽",
+                            "value": 74
+                        },
+                        {
+                            "name": "上虞",
+                            "value": 49
+                        },
+                        {
+                            "name": "蕭山",
+                            "value": 29
+                        },
+                        {
+                            "name": "新昌",
+                            "value": 18
+                        },
+                        {
+                            "name": "諸暨",
+                            "value": 13
+                        },
+                        {
+                            "name": "嵊縣",
+                            "value": 11
+                        },
+                        {
+                            "name": "餘杭",
+                            "value": 2
+                        },
+                        {
+                            "name": "應州",
+                            "value": 1
+                        },
+                        {
+                            "name": "虞縣",
+                            "value": 1
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "姚縣",
+                            "value": 1
+                        }
+                    ],
+                    "value": 563
+                },
+                {
+                    "name": "寧波",
+                    "children": [
+                        {
+                            "name": "鄞縣",
+                            "value": 151
+                        },
+                        {
+                            "name": "慈谿",
+                            "value": 118
+                        },
+                        {
+                            "name": "奉化",
+                            "value": 19
+                        },
+                        {
+                            "name": "定海",
+                            "value": 10
+                        },
+                        {
+                            "name": "象山",
+                            "value": 6
+                        },
+                        {
+                            "name": "慈溪",
+                            "value": 3
+                        },
+                        {
+                            "name": "其他",
+                            "value": 2
+                        },
+                        {
+                            "name": "縣鄞",
+                            "value": 1
+                        }
+                    ],
+                    "value": 310
+                },
+                {
+                    "name": "嘉興",
+                    "children": [
+                        {
+                            "name": "嘉興",
+                            "value": 64
+                        },
+                        {
+                            "name": "秀水",
+                            "value": 54
+                        },
+                        {
+                            "name": "平湖",
+                            "value": 53
+                        },
+                        {
+                            "name": "海鹽",
+                            "value": 39
+                        },
+                        {
+                            "name": "嘉善",
+                            "value": 23
+                        },
+                        {
+                            "name": "崇德",
+                            "value": 13
+                        },
+                        {
+                            "name": "桐鄉",
+                            "value": 12
+                        },
+                        {
+                            "name": "其他",
+                            "value": 3
+                        }
+                    ],
+                    "value": 261
+                },
+                {
+                    "name": "杭州",
+                    "children": [
+                        {
+                            "name": "仁和",
+                            "value": 105
+                        },
+                        {
+                            "name": "錢塘",
+                            "value": 66
+                        },
+                        {
+                            "name": "海寧",
+                            "value": 36
+                        },
+                        {
+                            "name": "臨安",
+                            "value": 12
+                        },
+                        {
+                            "name": "餘杭",
+                            "value": 8
+                        },
+                        {
+                            "name": "富陽",
+                            "value": 4
+                        },
+                        {
+                            "name": "新城",
+                            "value": 1
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "海寍",
+                            "value": 1
+                        },
+                        {
+                            "name": "於潛",
+                            "value": 1
+                        }
+                    ],
+                    "value": 235
+                },
+                {
+                    "name": "台州",
+                    "children": [
+                        {
+                            "name": "臨海",
+                            "value": 75
+                        },
+                        {
+                            "name": "黃巖",
+                            "value": 34
+                        },
+                        {
+                            "name": "天台",
+                            "value": 20
+                        },
+                        {
+                            "name": "太平",
+                            "value": 11
+                        },
+                        {
+                            "name": "僊居",
+                            "value": 10
+                        },
+                        {
+                            "name": "寧海",
+                            "value": 5
+                        },
+                        {
+                            "name": "仙居",
+                            "value": 2
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        }
+                    ],
+                    "value": 158
+                },
+                {
+                    "name": "湖州",
+                    "children": [
+                        {
+                            "name": "烏程",
+                            "value": 44
+                        },
+                        {
+                            "name": "歸安",
+                            "value": 39
+                        },
+                        {
+                            "name": "德清",
+                            "value": 28
+                        },
+                        {
+                            "name": "長興",
+                            "value": 17
+                        },
+                        {
+                            "name": "安吉",
+                            "value": 7
+                        },
+                        {
+                            "name": "武康",
+                            "value": 3
+                        },
+                        {
+                            "name": "吉安",
+                            "value": 1
+                        },
+                        {
+                            "name": "廬陵",
+                            "value": 1
+                        }
+                    ],
+                    "value": 140
+                },
+                {
+                    "name": "金華",
+                    "children": [
+                        {
+                            "name": "蘭谿",
+                            "value": 40
+                        },
+                        {
+                            "name": "永康",
+                            "value": 23
+                        },
+                        {
+                            "name": "金華",
+                            "value": 21
+                        },
+                        {
+                            "name": "東陽",
+                            "value": 18
+                        },
+                        {
+                            "name": "義烏",
+                            "value": 15
+                        },
+                        {
+                            "name": "蘭溪",
+                            "value": 4
+                        },
+                        {
+                            "name": "湯溪",
+                            "value": 4
+                        },
+                        {
+                            "name": "浦江",
+                            "value": 2
+                        },
+                        {
+                            "name": "武義",
+                            "value": 1
+                        }
+                    ],
+                    "value": 128
+                },
+                {
+                    "name": "衢州",
+                    "children": [
+                        {
+                            "name": "開化",
+                            "value": 18
+                        },
+                        {
+                            "name": "西安",
+                            "value": 18
+                        },
+                        {
+                            "name": "常山",
+                            "value": 16
+                        },
+                        {
+                            "name": "龍游",
+                            "value": 12
+                        },
+                        {
+                            "name": "江山",
+                            "value": 8
+                        }
+                    ],
+                    "value": 72
+                },
+                {
+                    "name": "溫州",
+                    "children": [
+                        {
+                            "name": "永嘉",
+                            "value": 39
+                        },
+                        {
+                            "name": "樂清",
+                            "value": 13
+                        },
+                        {
+                            "name": "平陽",
+                            "value": 9
+                        },
+                        {
+                            "name": "瑞安",
+                            "value": 5
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        }
+                    ],
+                    "value": 67
+                },
+                {
+                    "name": "嚴州",
+                    "children": [
+                        {
+                            "name": "淳安",
+                            "value": 37
+                        },
+                        {
+                            "name": "建德",
+                            "value": 10
+                        },
+                        {
+                            "name": "桐廬",
+                            "value": 8
+                        },
+                        {
+                            "name": "遂安",
+                            "value": 7
+                        },
+                        {
+                            "name": "壽昌",
+                            "value": 3
+                        },
+                        {
+                            "name": "分水",
+                            "value": 2
+                        }
+                    ],
+                    "value": 67
+                },
+                {
+                    "name": "處州",
+                    "children": [
+                        {
+                            "name": "麗水",
+                            "value": 18
+                        },
+                        {
+                            "name": "縉雲",
+                            "value": 17
+                        },
+                        {
+                            "name": "遂昌",
+                            "value": 11
+                        },
+                        {
+                            "name": "松陽",
+                            "value": 4
+                        },
+                        {
+                            "name": "景寧",
+                            "value": 3
+                        },
+                        {
+                            "name": "青田",
+                            "value": 3
+                        },
+                        {
+                            "name": "其他",
+                            "value": 2
+                        },
+                        {
+                            "name": "遂安",
+                            "value": 1
+                        },
+                        {
+                            "name": "宣平",
+                            "value": 1
+                        },
+                        {
+                            "name": "雲和",
+                            "value": 1
+                        }
+                    ],
+                    "value": 61
+                },
+                {
+                    "name": "其他",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 7
+                        }
+                    ],
+                    "value": 7
+                }
+            ],
+            "value": 2069
+        },
+        {
+            "name": "江西",
+            "children": [
+                {
+                    "name": "吉安",
+                    "children": [
+                        {
+                            "name": "安福",
+                            "value": 145
+                        },
+                        {
+                            "name": "吉水",
+                            "value": 99
+                        },
+                        {
+                            "name": "泰和",
+                            "value": 90
+                        },
+                        {
+                            "name": "廬陵",
+                            "value": 58
+                        },
+                        {
+                            "name": "永豐",
+                            "value": 36
+                        },
+                        {
+                            "name": "萬安",
+                            "value": 36
+                        },
+                        {
+                            "name": "永新",
+                            "value": 34
+                        },
+                        {
+                            "name": "龍泉",
+                            "value": 8
+                        },
+                        {
+                            "name": "其他",
+                            "value": 2
+                        },
+                        {
+                            "name": "吉永",
+                            "value": 2
+                        },
+                        {
+                            "name": "奉和",
+                            "value": 1
+                        },
+                        {
+                            "name": "永曹",
+                            "value": 1
+                        },
+                        {
+                            "name": "安遠",
+                            "value": 1
+                        },
+                        {
+                            "name": "泰安",
+                            "value": 1
+                        }
+                    ],
+                    "value": 514
+                },
+                {
+                    "name": "南昌",
+                    "children": [
+                        {
+                            "name": "南昌",
+                            "value": 144
+                        },
+                        {
+                            "name": "豐城",
+                            "value": 119
+                        },
+                        {
+                            "name": "進賢",
+                            "value": 49
+                        },
+                        {
+                            "name": "新建",
+                            "value": 36
+                        },
+                        {
+                            "name": "奉新",
+                            "value": 11
+                        },
+                        {
+                            "name": "靖安",
+                            "value": 3
+                        },
+                        {
+                            "name": "寧縣",
+                            "value": 3
+                        },
+                        {
+                            "name": "寧州",
+                            "value": 3
+                        },
+                        {
+                            "name": "武寧",
+                            "value": 3
+                        },
+                        {
+                            "name": "寧遠",
+                            "value": 1
+                        },
+                        {
+                            "name": "都昌",
+                            "value": 1
+                        },
+                        {
+                            "name": "費城",
+                            "value": 1
+                        },
+                        {
+                            "name": "華新",
+                            "value": 1
+                        }
+                    ],
+                    "value": 375
+                },
+                {
+                    "name": "撫州",
+                    "children": [
+                        {
+                            "name": "臨川",
+                            "value": 69
+                        },
+                        {
+                            "name": "金谿",
+                            "value": 35
+                        },
+                        {
+                            "name": "樂安",
+                            "value": 18
+                        },
+                        {
+                            "name": "崇仁",
+                            "value": 14
+                        },
+                        {
+                            "name": "東鄉",
+                            "value": 4
+                        },
+                        {
+                            "name": "宜黃",
+                            "value": 1
+                        }
+                    ],
+                    "value": 141
+                },
+                {
+                    "name": "饒州",
+                    "children": [
+                        {
+                            "name": "浮梁",
+                            "value": 38
+                        },
+                        {
+                            "name": "鄱陽",
+                            "value": 36
+                        },
+                        {
+                            "name": "樂平",
+                            "value": 21
+                        },
+                        {
+                            "name": "餘干",
+                            "value": 15
+                        },
+                        {
+                            "name": "安仁",
+                            "value": 15
+                        },
+                        {
+                            "name": "德興",
+                            "value": 13
+                        },
+                        {
+                            "name": "萬年",
+                            "value": 1
+                        }
+                    ],
+                    "value": 139
+                },
+                {
+                    "name": "廣信",
+                    "children": [
+                        {
+                            "name": "貴溪",
+                            "value": 45
+                        },
+                        {
+                            "name": "上饒",
+                            "value": 20
+                        },
+                        {
+                            "name": "弋陽",
+                            "value": 18
+                        },
+                        {
+                            "name": "永豐",
+                            "value": 16
+                        },
+                        {
+                            "name": "鉛山",
+                            "value": 9
+                        },
+                        {
+                            "name": "玉山",
+                            "value": 8
+                        },
+                        {
+                            "name": "其他",
+                            "value": 3
+                        }
+                    ],
+                    "value": 119
+                },
+                {
+                    "name": "臨江",
+                    "children": [
+                        {
+                            "name": "新淦",
+                            "value": 48
+                        },
+                        {
+                            "name": "新喻",
+                            "value": 38
+                        },
+                        {
+                            "name": "清江",
+                            "value": 27
+                        },
+                        {
+                            "name": "峽江",
+                            "value": 4
+                        }
+                    ],
+                    "value": 117
+                },
+                {
+                    "name": "建昌",
+                    "children": [
+                        {
+                            "name": "南城",
+                            "value": 27
+                        },
+                        {
+                            "name": "南豐",
+                            "value": 14
+                        },
+                        {
+                            "name": "新城",
+                            "value": 6
+                        },
+                        {
+                            "name": "廣昌",
+                            "value": 5
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        }
+                    ],
+                    "value": 53
+                },
+                {
+                    "name": "瑞州",
+                    "children": [
+                        {
+                            "name": "高安",
+                            "value": 23
+                        },
+                        {
+                            "name": "新昌",
+                            "value": 9
+                        },
+                        {
+                            "name": "上高",
+                            "value": 6
+                        },
+                        {
+                            "name": "高縣",
+                            "value": 1
+                        }
+                    ],
+                    "value": 39
+                },
+                {
+                    "name": "九江",
+                    "children": [
+                        {
+                            "name": "德化",
+                            "value": 15
+                        },
+                        {
+                            "name": "湖口",
+                            "value": 10
+                        },
+                        {
+                            "name": "彭澤",
+                            "value": 6
+                        },
+                        {
+                            "name": "瑞昌",
+                            "value": 2
+                        },
+                        {
+                            "name": "德安",
+                            "value": 1
+                        }
+                    ],
+                    "value": 34
+                },
+                {
+                    "name": "袁州",
+                    "children": [
+                        {
+                            "name": "宜春",
+                            "value": 15
+                        },
+                        {
+                            "name": "分宜",
+                            "value": 5
+                        },
+                        {
+                            "name": "萍鄉",
+                            "value": 3
+                        },
+                        {
+                            "name": "萬載",
+                            "value": 2
+                        }
+                    ],
+                    "value": 25
+                },
+                {
+                    "name": "贛州",
+                    "children": [
+                        {
+                            "name": "寧都",
+                            "value": 7
+                        },
+                        {
+                            "name": "信豐",
+                            "value": 5
+                        },
+                        {
+                            "name": "贛縣",
+                            "value": 5
+                        },
+                        {
+                            "name": "興國",
+                            "value": 3
+                        },
+                        {
+                            "name": "雩都",
+                            "value": 3
+                        }
+                    ],
+                    "value": 23
+                },
+                {
+                    "name": "南康",
+                    "children": [
+                        {
+                            "name": "都昌",
+                            "value": 6
+                        },
+                        {
+                            "name": "建昌",
+                            "value": 5
+                        },
+                        {
+                            "name": "星子",
+                            "value": 5
+                        },
+                        {
+                            "name": "安義",
+                            "value": 1
+                        }
+                    ],
+                    "value": 17
+                },
+                {
+                    "name": "南安",
+                    "children": [
+                        {
+                            "name": "大庾",
+                            "value": 7
+                        },
+                        {
+                            "name": "南康",
+                            "value": 2
+                        }
+                    ],
+                    "value": 9
+                },
+                {
+                    "name": "其他",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 7
+                        }
+                    ],
+                    "value": 7
+                }
+            ],
+            "value": 1612
+        },
+        {
+            "name": "福建",
+            "children": [
+                {
+                    "name": "福州",
+                    "children": [
+                        {
+                            "name": "閩縣",
+                            "value": 155
+                        },
+                        {
+                            "name": "長樂",
+                            "value": 65
+                        },
+                        {
+                            "name": "福清",
+                            "value": 57
+                        },
+                        {
+                            "name": "侯官",
+                            "value": 34
+                        },
+                        {
+                            "name": "懷安",
+                            "value": 32
+                        },
+                        {
+                            "name": "連江",
+                            "value": 12
+                        },
+                        {
+                            "name": "候官",
+                            "value": 9
+                        },
+                        {
+                            "name": "永福",
+                            "value": 4
+                        },
+                        {
+                            "name": "寧德",
+                            "value": 4
+                        },
+                        {
+                            "name": "閩清",
+                            "value": 3
+                        },
+                        {
+                            "name": "福安",
+                            "value": 2
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "古田",
+                            "value": 1
+                        },
+                        {
+                            "name": "羅源",
+                            "value": 1
+                        }
+                    ],
+                    "value": 380
+                },
+                {
+                    "name": "興化",
+                    "children": [
+                        {
+                            "name": "莆田",
+                            "value": 326
+                        },
+                        {
+                            "name": "仙遊",
+                            "value": 7
+                        },
+                        {
+                            "name": "其他",
+                            "value": 2
+                        }
+                    ],
+                    "value": 335
+                },
+                {
+                    "name": "泉州",
+                    "children": [
+                        {
+                            "name": "晉江",
+                            "value": 189
+                        },
+                        {
+                            "name": "同安",
+                            "value": 35
+                        },
+                        {
+                            "name": "南安",
+                            "value": 25
+                        },
+                        {
+                            "name": "惠安",
+                            "value": 23
+                        },
+                        {
+                            "name": "安溪",
+                            "value": 4
+                        },
+                        {
+                            "name": "永春",
+                            "value": 3
+                        },
+                        {
+                            "name": "德化",
+                            "value": 1
+                        }
+                    ],
+                    "value": 280
+                },
+                {
+                    "name": "漳州",
+                    "children": [
+                        {
+                            "name": "漳浦",
+                            "value": 62
+                        },
+                        {
+                            "name": "龍溪",
+                            "value": 48
+                        },
+                        {
+                            "name": "長泰",
+                            "value": 9
+                        },
+                        {
+                            "name": "海澄",
+                            "value": 6
+                        },
+                        {
+                            "name": "漳平",
+                            "value": 4
+                        },
+                        {
+                            "name": "詔安",
+                            "value": 4
+                        },
+                        {
+                            "name": "平和",
+                            "value": 4
+                        },
+                        {
+                            "name": "南靖",
+                            "value": 3
+                        },
+                        {
+                            "name": "龍巖",
+                            "value": 2
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        }
+                    ],
+                    "value": 143
+                },
+                {
+                    "name": "建寧",
+                    "children": [
+                        {
+                            "name": "建安",
+                            "value": 21
+                        },
+                        {
+                            "name": "甌寧",
+                            "value": 17
+                        },
+                        {
+                            "name": "浦城",
+                            "value": 9
+                        },
+                        {
+                            "name": "崇安",
+                            "value": 4
+                        },
+                        {
+                            "name": "建陽",
+                            "value": 3
+                        },
+                        {
+                            "name": "松溪",
+                            "value": 2
+                        }
+                    ],
+                    "value": 56
+                },
+                {
+                    "name": "延平",
+                    "children": [
+                        {
+                            "name": "南平",
+                            "value": 9
+                        },
+                        {
+                            "name": "永安",
+                            "value": 3
+                        },
+                        {
+                            "name": "尤溪",
+                            "value": 3
+                        },
+                        {
+                            "name": "沙縣",
+                            "value": 2
+                        },
+                        {
+                            "name": "大田",
+                            "value": 2
+                        },
+                        {
+                            "name": "順昌",
+                            "value": 1
+                        },
+                        {
+                            "name": "將樂",
+                            "value": 1
+                        }
+                    ],
+                    "value": 21
+                },
+                {
+                    "name": "汀州",
+                    "children": [
+                        {
+                            "name": "清流",
+                            "value": 6
+                        },
+                        {
+                            "name": "上杭",
+                            "value": 5
+                        },
+                        {
+                            "name": "長汀",
+                            "value": 5
+                        },
+                        {
+                            "name": "永定",
+                            "value": 3
+                        },
+                        {
+                            "name": "長樂",
+                            "value": 1
+                        }
+                    ],
+                    "value": 20
+                },
+                {
+                    "name": "邵武",
+                    "children": [
+                        {
+                            "name": "邵武",
+                            "value": 8
+                        },
+                        {
+                            "name": "建寧",
+                            "value": 4
+                        },
+                        {
+                            "name": "泰寧",
+                            "value": 2
+                        }
+                    ],
+                    "value": 14
+                },
+                {
+                    "name": "其他",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 8
+                        }
+                    ],
+                    "value": 8
+                },
+                {
+                    "name": "福寧州",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 3
+                        },
+                        {
+                            "name": "寧德",
+                            "value": 2
+                        },
+                        {
+                            "name": "福安",
+                            "value": 1
+                        }
+                    ],
+                    "value": 6
+                }
+            ],
+            "value": 1263
+        },
+        {
+            "name": "北直隸",
+            "children": [
+                {
+                    "name": "順天",
+                    "children": [
+                        {
+                            "name": "霸州",
+                            "value": 34
+                        },
+                        {
+                            "name": "通州",
+                            "value": 33
+                        },
+                        {
+                            "name": "大興",
+                            "value": 32
+                        },
+                        {
+                            "name": "宛平",
+                            "value": 28
+                        },
+                        {
+                            "name": "薊州",
+                            "value": 26
+                        },
+                        {
+                            "name": "固安",
+                            "value": 21
+                        },
+                        {
+                            "name": "涿州",
+                            "value": 19
+                        },
+                        {
+                            "name": "東安",
+                            "value": 15
+                        },
+                        {
+                            "name": "昌平",
+                            "value": 14
+                        },
+                        {
+                            "name": "其他",
+                            "value": 9
+                        },
+                        {
+                            "name": "永清",
+                            "value": 9
+                        },
+                        {
+                            "name": "密雲",
+                            "value": 5
+                        },
+                        {
+                            "name": "懷柔",
+                            "value": 4
+                        },
+                        {
+                            "name": "良鄉",
+                            "value": 3
+                        },
+                        {
+                            "name": "豐潤",
+                            "value": 2
+                        },
+                        {
+                            "name": "寶坻",
+                            "value": 1
+                        },
+                        {
+                            "name": "閩安",
+                            "value": 1
+                        },
+                        {
+                            "name": "蘇州",
+                            "value": 1
+                        },
+                        {
+                            "name": "唐山",
+                            "value": 1
+                        },
+                        {
+                            "name": "漷縣",
+                            "value": 1
+                        },
+                        {
+                            "name": "谷縣",
+                            "value": 1
+                        }
+                    ],
+                    "value": 260
+                },
+                {
+                    "name": "保定",
+                    "children": [
+                        {
+                            "name": "安州",
+                            "value": 23
+                        },
+                        {
+                            "name": "清苑",
+                            "value": 19
+                        },
+                        {
+                            "name": "易州",
+                            "value": 17
+                        },
+                        {
+                            "name": "安肅",
+                            "value": 15
+                        },
+                        {
+                            "name": "蠡縣",
+                            "value": 14
+                        },
+                        {
+                            "name": "定興",
+                            "value": 14
+                        },
+                        {
+                            "name": "新城",
+                            "value": 11
+                        },
+                        {
+                            "name": "博野",
+                            "value": 10
+                        },
+                        {
+                            "name": "雄縣",
+                            "value": 8
+                        },
+                        {
+                            "name": "祁州",
+                            "value": 8
+                        },
+                        {
+                            "name": "容城",
+                            "value": 7
+                        },
+                        {
+                            "name": "完縣",
+                            "value": 7
+                        },
+                        {
+                            "name": "唐縣",
+                            "value": 6
+                        },
+                        {
+                            "name": "滿城",
+                            "value": 4
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "慶都",
+                            "value": 1
+                        }
+                    ],
+                    "value": 165
+                },
+                {
+                    "name": "河間",
+                    "children": [
+                        {
+                            "name": "任丘",
+                            "value": 40
+                        },
+                        {
+                            "name": "景州",
+                            "value": 37
+                        },
+                        {
+                            "name": "滄州",
+                            "value": 27
+                        },
+                        {
+                            "name": "獻縣",
+                            "value": 12
+                        },
+                        {
+                            "name": "阜城",
+                            "value": 10
+                        },
+                        {
+                            "name": "交河",
+                            "value": 8
+                        },
+                        {
+                            "name": "肅寧",
+                            "value": 7
+                        },
+                        {
+                            "name": "河間",
+                            "value": 6
+                        },
+                        {
+                            "name": "青縣",
+                            "value": 5
+                        },
+                        {
+                            "name": "靜海",
+                            "value": 3
+                        },
+                        {
+                            "name": "其他",
+                            "value": 2
+                        },
+                        {
+                            "name": "興濟",
+                            "value": 2
+                        },
+                        {
+                            "name": "寧津",
+                            "value": 2
+                        },
+                        {
+                            "name": "倉州",
+                            "value": 1
+                        },
+                        {
+                            "name": "任縣",
+                            "value": 1
+                        }
+                    ],
+                    "value": 163
+                },
+                {
+                    "name": "真定",
+                    "children": [
+                        {
+                            "name": "冀州",
+                            "value": 35
+                        },
+                        {
+                            "name": "趙州",
+                            "value": 29
+                        },
+                        {
+                            "name": "晉州",
+                            "value": 20
+                        },
+                        {
+                            "name": "真定",
+                            "value": 10
+                        },
+                        {
+                            "name": "藁城",
+                            "value": 10
+                        },
+                        {
+                            "name": "深州",
+                            "value": 8
+                        },
+                        {
+                            "name": "定州",
+                            "value": 7
+                        },
+                        {
+                            "name": "欒城",
+                            "value": 5
+                        },
+                        {
+                            "name": "獲鹿",
+                            "value": 5
+                        },
+                        {
+                            "name": "靈壽",
+                            "value": 4
+                        },
+                        {
+                            "name": "井陘",
+                            "value": 4
+                        },
+                        {
+                            "name": "元氏",
+                            "value": 3
+                        },
+                        {
+                            "name": "平山",
+                            "value": 3
+                        },
+                        {
+                            "name": "普州",
+                            "value": 2
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "衡水",
+                            "value": 1
+                        }
+                    ],
+                    "value": 147
+                },
+                {
+                    "name": "大名",
+                    "children": [
+                        {
+                            "name": "開州",
+                            "value": 59
+                        },
+                        {
+                            "name": "元城",
+                            "value": 11
+                        },
+                        {
+                            "name": "濬縣",
+                            "value": 10
+                        },
+                        {
+                            "name": "東明",
+                            "value": 10
+                        },
+                        {
+                            "name": "魏縣",
+                            "value": 9
+                        },
+                        {
+                            "name": "滑縣",
+                            "value": 9
+                        },
+                        {
+                            "name": "南樂",
+                            "value": 6
+                        },
+                        {
+                            "name": "大名",
+                            "value": 6
+                        },
+                        {
+                            "name": "內黃",
+                            "value": 6
+                        },
+                        {
+                            "name": "其他",
+                            "value": 2
+                        },
+                        {
+                            "name": "清豐",
+                            "value": 1
+                        }
+                    ],
+                    "value": 129
+                },
+                {
+                    "name": "廣平",
+                    "children": [
+                        {
+                            "name": "永年",
+                            "value": 35
+                        },
+                        {
+                            "name": "曲周",
+                            "value": 13
+                        },
+                        {
+                            "name": "肥鄉",
+                            "value": 10
+                        },
+                        {
+                            "name": "成安",
+                            "value": 9
+                        },
+                        {
+                            "name": "邯鄲",
+                            "value": 8
+                        },
+                        {
+                            "name": "威縣",
+                            "value": 6
+                        },
+                        {
+                            "name": "廣平",
+                            "value": 5
+                        },
+                        {
+                            "name": "雞澤",
+                            "value": 2
+                        },
+                        {
+                            "name": "清河",
+                            "value": 2
+                        },
+                        {
+                            "name": "永平",
+                            "value": 1
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        }
+                    ],
+                    "value": 92
+                },
+                {
+                    "name": "永平",
+                    "children": [
+                        {
+                            "name": "灤州",
+                            "value": 23
+                        },
+                        {
+                            "name": "遷安",
+                            "value": 11
+                        },
+                        {
+                            "name": "昌黎",
+                            "value": 7
+                        },
+                        {
+                            "name": "盧龍",
+                            "value": 7
+                        },
+                        {
+                            "name": "撫寧",
+                            "value": 3
+                        }
+                    ],
+                    "value": 51
+                },
+                {
+                    "name": "順德",
+                    "children": [
+                        {
+                            "name": "任縣",
+                            "value": 7
+                        },
+                        {
+                            "name": "邢臺",
+                            "value": 4
+                        },
+                        {
+                            "name": "南和",
+                            "value": 3
+                        },
+                        {
+                            "name": "唐山",
+                            "value": 3
+                        },
+                        {
+                            "name": "鉅鹿",
+                            "value": 2
+                        },
+                        {
+                            "name": "平鄉",
+                            "value": 2
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "廣宗",
+                            "value": 1
+                        },
+                        {
+                            "name": "內丘",
+                            "value": 1
+                        },
+                        {
+                            "name": "商丘",
+                            "value": 1
+                        },
+                        {
+                            "name": "刑臺",
+                            "value": 1
+                        },
+                        {
+                            "name": "沙河",
+                            "value": 1
+                        }
+                    ],
+                    "value": 27
+                },
+                {
+                    "name": "延慶州",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 6
+                        }
+                    ],
+                    "value": 6
+                }
+            ],
+            "value": 1040
+        },
+        {
+            "name": "山東",
+            "children": [
+                {
+                    "name": "濟南",
+                    "children": [
+                        {
+                            "name": "德州",
+                            "value": 44
+                        },
+                        {
+                            "name": "歷城",
+                            "value": 38
+                        },
+                        {
+                            "name": "濱州",
+                            "value": 36
+                        },
+                        {
+                            "name": "武定",
+                            "value": 32
+                        },
+                        {
+                            "name": "章丘",
+                            "value": 20
+                        },
+                        {
+                            "name": "新城",
+                            "value": 15
+                        },
+                        {
+                            "name": "長清",
+                            "value": 13
+                        },
+                        {
+                            "name": "淄川",
+                            "value": 13
+                        },
+                        {
+                            "name": "臨邑",
+                            "value": 9
+                        },
+                        {
+                            "name": "濟陽",
+                            "value": 8
+                        },
+                        {
+                            "name": "齊東",
+                            "value": 7
+                        },
+                        {
+                            "name": "青城",
+                            "value": 7
+                        },
+                        {
+                            "name": "泰安",
+                            "value": 6
+                        },
+                        {
+                            "name": "齊河",
+                            "value": 6
+                        },
+                        {
+                            "name": "鄒平",
+                            "value": 5
+                        },
+                        {
+                            "name": "長山",
+                            "value": 5
+                        },
+                        {
+                            "name": "肥城",
+                            "value": 4
+                        },
+                        {
+                            "name": "禹城",
+                            "value": 4
+                        },
+                        {
+                            "name": "濵州",
+                            "value": 3
+                        },
+                        {
+                            "name": "樂陵",
+                            "value": 2
+                        },
+                        {
+                            "name": "棗州",
+                            "value": 1
+                        },
+                        {
+                            "name": "海豊",
+                            "value": 1
+                        }
+                    ],
+                    "value": 279
+                },
+                {
+                    "name": "兖州",
+                    "children": [
+                        {
+                            "name": "東平",
+                            "value": 58
+                        },
+                        {
+                            "name": "濟寧",
+                            "value": 37
+                        },
+                        {
+                            "name": "曹州",
+                            "value": 31
+                        },
+                        {
+                            "name": "滕縣",
+                            "value": 11
+                        },
+                        {
+                            "name": "沂州",
+                            "value": 9
+                        },
+                        {
+                            "name": "單縣",
+                            "value": 9
+                        },
+                        {
+                            "name": "寧陽",
+                            "value": 7
+                        },
+                        {
+                            "name": "魚臺",
+                            "value": 7
+                        },
+                        {
+                            "name": "滋陽",
+                            "value": 6
+                        },
+                        {
+                            "name": "曲阜",
+                            "value": 4
+                        },
+                        {
+                            "name": "嶧縣",
+                            "value": 3
+                        },
+                        {
+                            "name": "鉅野",
+                            "value": 3
+                        },
+                        {
+                            "name": "金鄉",
+                            "value": 3
+                        },
+                        {
+                            "name": "單城",
+                            "value": 2
+                        },
+                        {
+                            "name": "鄒縣",
+                            "value": 1
+                        },
+                        {
+                            "name": "來平",
+                            "value": 1
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "平州",
+                            "value": 1
+                        },
+                        {
+                            "name": "曹縣",
+                            "value": 1
+                        },
+                        {
+                            "name": "泗水",
+                            "value": 1
+                        },
+                        {
+                            "name": "泰安",
+                            "value": 1
+                        }
+                    ],
+                    "value": 197
+                },
+                {
+                    "name": "青州",
+                    "children": [
+                        {
+                            "name": "益都",
+                            "value": 38
+                        },
+                        {
+                            "name": "壽光",
+                            "value": 20
+                        },
+                        {
+                            "name": "安丘",
+                            "value": 16
+                        },
+                        {
+                            "name": "莒州",
+                            "value": 13
+                        },
+                        {
+                            "name": "諸城",
+                            "value": 13
+                        },
+                        {
+                            "name": "蒙陰",
+                            "value": 12
+                        },
+                        {
+                            "name": "樂安",
+                            "value": 8
+                        },
+                        {
+                            "name": "臨朐",
+                            "value": 6
+                        },
+                        {
+                            "name": "博興",
+                            "value": 5
+                        },
+                        {
+                            "name": "高苑",
+                            "value": 5
+                        },
+                        {
+                            "name": "昌樂",
+                            "value": 4
+                        },
+                        {
+                            "name": "臨淄",
+                            "value": 2
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        }
+                    ],
+                    "value": 143
+                },
+                {
+                    "name": "東昌",
+                    "children": [
+                        {
+                            "name": "高唐",
+                            "value": 33
+                        },
+                        {
+                            "name": "臨清",
+                            "value": 31
+                        },
+                        {
+                            "name": "濮州",
+                            "value": 20
+                        },
+                        {
+                            "name": "堂邑",
+                            "value": 11
+                        },
+                        {
+                            "name": "冠縣",
+                            "value": 10
+                        },
+                        {
+                            "name": "茌平",
+                            "value": 8
+                        },
+                        {
+                            "name": "聊城",
+                            "value": 8
+                        },
+                        {
+                            "name": "莘縣",
+                            "value": 6
+                        },
+                        {
+                            "name": "博平",
+                            "value": 6
+                        },
+                        {
+                            "name": "清平",
+                            "value": 3
+                        },
+                        {
+                            "name": "其他",
+                            "value": 2
+                        },
+                        {
+                            "name": "恩縣",
+                            "value": 2
+                        },
+                        {
+                            "name": "丘縣",
+                            "value": 1
+                        }
+                    ],
+                    "value": 141
+                },
+                {
+                    "name": "萊州",
+                    "children": [
+                        {
+                            "name": "掖縣",
+                            "value": 30
+                        },
+                        {
+                            "name": "膠州",
+                            "value": 29
+                        },
+                        {
+                            "name": "平度",
+                            "value": 23
+                        },
+                        {
+                            "name": "濰縣",
+                            "value": 6
+                        }
+                    ],
+                    "value": 88
+                },
+                {
+                    "name": "登州",
+                    "children": [
+                        {
+                            "name": "萊陽",
+                            "value": 19
+                        },
+                        {
+                            "name": "寧海",
+                            "value": 11
+                        },
+                        {
+                            "name": "黃縣",
+                            "value": 10
+                        },
+                        {
+                            "name": "蓬萊",
+                            "value": 6
+                        },
+                        {
+                            "name": "招遠",
+                            "value": 6
+                        },
+                        {
+                            "name": "福山",
+                            "value": 5
+                        },
+                        {
+                            "name": "棲霞",
+                            "value": 4
+                        }
+                    ],
+                    "value": 61
+                },
+                {
+                    "name": "其他",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 1
+                        }
+                    ],
+                    "value": 1
+                }
+            ],
+            "value": 910
+        },
+        {
+            "name": "河南",
+            "children": [
+                {
+                    "name": "開封",
+                    "children": [
+                        {
+                            "name": "祥符",
+                            "value": 68
+                        },
+                        {
+                            "name": "歸德",
+                            "value": 46
+                        },
+                        {
+                            "name": "許州",
+                            "value": 43
+                        },
+                        {
+                            "name": "陳州",
+                            "value": 29
+                        },
+                        {
+                            "name": "杞縣",
+                            "value": 27
+                        },
+                        {
+                            "name": "鈞州",
+                            "value": 24
+                        },
+                        {
+                            "name": "鄭州",
+                            "value": 16
+                        },
+                        {
+                            "name": "扶溝",
+                            "value": 14
+                        },
+                        {
+                            "name": "儀封",
+                            "value": 13
+                        },
+                        {
+                            "name": "睢州",
+                            "value": 13
+                        },
+                        {
+                            "name": "蘭陽",
+                            "value": 10
+                        },
+                        {
+                            "name": "延津",
+                            "value": 8
+                        },
+                        {
+                            "name": "通許",
+                            "value": 7
+                        },
+                        {
+                            "name": "鄢陵",
+                            "value": 7
+                        },
+                        {
+                            "name": "陳留",
+                            "value": 7
+                        },
+                        {
+                            "name": "中牟",
+                            "value": 6
+                        },
+                        {
+                            "name": "禹州",
+                            "value": 6
+                        },
+                        {
+                            "name": "原武",
+                            "value": 5
+                        },
+                        {
+                            "name": "陽武",
+                            "value": 4
+                        },
+                        {
+                            "name": "封丘",
+                            "value": 4
+                        },
+                        {
+                            "name": "洧川",
+                            "value": 3
+                        },
+                        {
+                            "name": "尉氏",
+                            "value": 2
+                        },
+                        {
+                            "name": "其他",
+                            "value": 2
+                        },
+                        {
+                            "name": "廣陵",
+                            "value": 1
+                        },
+                        {
+                            "name": "釣州",
+                            "value": 1
+                        },
+                        {
+                            "name": "祀縣",
+                            "value": 1
+                        },
+                        {
+                            "name": "鄔陵",
+                            "value": 1
+                        }
+                    ],
+                    "value": 368
+                },
+                {
+                    "name": "汝寧",
+                    "children": [
+                        {
+                            "name": "光州",
+                            "value": 80
+                        },
+                        {
+                            "name": "信陽",
+                            "value": 32
+                        },
+                        {
+                            "name": "汝陽",
+                            "value": 17
+                        },
+                        {
+                            "name": "上蔡",
+                            "value": 8
+                        },
+                        {
+                            "name": "西平",
+                            "value": 7
+                        },
+                        {
+                            "name": "新蔡",
+                            "value": 7
+                        },
+                        {
+                            "name": "息縣",
+                            "value": 4
+                        },
+                        {
+                            "name": "其他",
+                            "value": 2
+                        },
+                        {
+                            "name": "遂平",
+                            "value": 1
+                        },
+                        {
+                            "name": "儀衛",
+                            "value": 1
+                        }
+                    ],
+                    "value": 159
+                },
+                {
+                    "name": "河南",
+                    "children": [
+                        {
+                            "name": "洛陽",
+                            "value": 50
+                        },
+                        {
+                            "name": "陝州",
+                            "value": 23
+                        },
+                        {
+                            "name": "孟津",
+                            "value": 8
+                        },
+                        {
+                            "name": "嵩縣",
+                            "value": 8
+                        },
+                        {
+                            "name": "新安",
+                            "value": 5
+                        },
+                        {
+                            "name": "鞏縣",
+                            "value": 4
+                        },
+                        {
+                            "name": "沔池",
+                            "value": 3
+                        },
+                        {
+                            "name": "偃師",
+                            "value": 3
+                        },
+                        {
+                            "name": "登封",
+                            "value": 3
+                        },
+                        {
+                            "name": "宜陽",
+                            "value": 3
+                        },
+                        {
+                            "name": "永寧",
+                            "value": 2
+                        },
+                        {
+                            "name": "靈賓",
+                            "value": 1
+                        }
+                    ],
+                    "value": 113
+                },
+                {
+                    "name": "南陽",
+                    "children": [
+                        {
+                            "name": "汝州",
+                            "value": 19
+                        },
+                        {
+                            "name": "裕州",
+                            "value": 16
+                        },
+                        {
+                            "name": "鄧州",
+                            "value": 12
+                        },
+                        {
+                            "name": "南陽",
+                            "value": 7
+                        },
+                        {
+                            "name": "泌陽",
+                            "value": 5
+                        },
+                        {
+                            "name": "新野",
+                            "value": 4
+                        },
+                        {
+                            "name": "唐縣",
+                            "value": 4
+                        },
+                        {
+                            "name": "鎮平",
+                            "value": 2
+                        },
+                        {
+                            "name": "郟縣",
+                            "value": 1
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "葉縣",
+                            "value": 1
+                        },
+                        {
+                            "name": "南召",
+                            "value": 1
+                        }
+                    ],
+                    "value": 73
+                },
+                {
+                    "name": "彰德",
+                    "children": [
+                        {
+                            "name": "安陽",
+                            "value": 28
+                        },
+                        {
+                            "name": "磁州",
+                            "value": 13
+                        },
+                        {
+                            "name": "湯陰",
+                            "value": 5
+                        },
+                        {
+                            "name": "臨漳",
+                            "value": 4
+                        },
+                        {
+                            "name": "林縣",
+                            "value": 3
+                        },
+                        {
+                            "name": "寧陽",
+                            "value": 1
+                        }
+                    ],
+                    "value": 54
+                },
+                {
+                    "name": "衛輝",
+                    "children": [
+                        {
+                            "name": "汲縣",
+                            "value": 18
+                        },
+                        {
+                            "name": "獲嘉",
+                            "value": 6
+                        },
+                        {
+                            "name": "新鄉",
+                            "value": 5
+                        },
+                        {
+                            "name": "輝縣",
+                            "value": 4
+                        },
+                        {
+                            "name": "淇縣",
+                            "value": 3
+                        },
+                        {
+                            "name": "胙城",
+                            "value": 3
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "新城",
+                            "value": 1
+                        }
+                    ],
+                    "value": 41
+                },
+                {
+                    "name": "懷慶",
+                    "children": [
+                        {
+                            "name": "河內",
+                            "value": 9
+                        },
+                        {
+                            "name": "修武",
+                            "value": 3
+                        },
+                        {
+                            "name": "武陟",
+                            "value": 3
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "溫縣",
+                            "value": 1
+                        },
+                        {
+                            "name": "孟縣",
+                            "value": 1
+                        }
+                    ],
+                    "value": 18
+                },
+                {
+                    "name": "其他",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 5
+                        }
+                    ],
+                    "value": 5
+                }
+            ],
+            "value": 831
+        },
+        {
+            "name": "四川",
+            "children": [
+                {
+                    "name": "成都",
+                    "children": [
+                        {
+                            "name": "內江",
+                            "value": 82
+                        },
+                        {
+                            "name": "資縣",
+                            "value": 14
+                        },
+                        {
+                            "name": "成都",
+                            "value": 13
+                        },
+                        {
+                            "name": "綿州",
+                            "value": 12
+                        },
+                        {
+                            "name": "漢州",
+                            "value": 10
+                        },
+                        {
+                            "name": "溫江",
+                            "value": 9
+                        },
+                        {
+                            "name": "崇慶",
+                            "value": 8
+                        },
+                        {
+                            "name": "華陽",
+                            "value": 8
+                        },
+                        {
+                            "name": "新都",
+                            "value": 8
+                        },
+                        {
+                            "name": "仁壽",
+                            "value": 6
+                        },
+                        {
+                            "name": "井研",
+                            "value": 6
+                        },
+                        {
+                            "name": "雙流",
+                            "value": 5
+                        },
+                        {
+                            "name": "彭縣",
+                            "value": 4
+                        },
+                        {
+                            "name": "資陽",
+                            "value": 4
+                        },
+                        {
+                            "name": "金堂",
+                            "value": 4
+                        },
+                        {
+                            "name": "簡縣",
+                            "value": 2
+                        },
+                        {
+                            "name": "簡州",
+                            "value": 2
+                        },
+                        {
+                            "name": "德陽",
+                            "value": 2
+                        },
+                        {
+                            "name": "灌縣",
+                            "value": 1
+                        },
+                        {
+                            "name": "貴陽",
+                            "value": 1
+                        },
+                        {
+                            "name": "汶州",
+                            "value": 1
+                        },
+                        {
+                            "name": "安縣",
+                            "value": 1
+                        },
+                        {
+                            "name": "新繁",
+                            "value": 1
+                        }
+                    ],
+                    "value": 204
+                },
+                {
+                    "name": "重慶",
+                    "children": [
+                        {
+                            "name": "巴縣",
+                            "value": 67
+                        },
+                        {
+                            "name": "合州",
+                            "value": 46
+                        },
+                        {
+                            "name": "忠州",
+                            "value": 17
+                        },
+                        {
+                            "name": "涪州",
+                            "value": 16
+                        },
+                        {
+                            "name": "長壽",
+                            "value": 16
+                        },
+                        {
+                            "name": "江津",
+                            "value": 15
+                        },
+                        {
+                            "name": "永川",
+                            "value": 8
+                        },
+                        {
+                            "name": "榮昌",
+                            "value": 6
+                        },
+                        {
+                            "name": "大足",
+                            "value": 4
+                        },
+                        {
+                            "name": "安居",
+                            "value": 4
+                        },
+                        {
+                            "name": "綦江",
+                            "value": 2
+                        },
+                        {
+                            "name": "吳壽",
+                            "value": 1
+                        },
+                        {
+                            "name": "志州",
+                            "value": 1
+                        }
+                    ],
+                    "value": 203
+                },
+                {
+                    "name": "敘州",
+                    "children": [
+                        {
+                            "name": "富順",
+                            "value": 62
+                        },
+                        {
+                            "name": "宜賓",
+                            "value": 28
+                        },
+                        {
+                            "name": "南溪",
+                            "value": 6
+                        },
+                        {
+                            "name": "長寧",
+                            "value": 5
+                        },
+                        {
+                            "name": "珙縣",
+                            "value": 2
+                        },
+                        {
+                            "name": "南谿",
+                            "value": 1
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        }
+                    ],
+                    "value": 105
+                },
+                {
+                    "name": "順慶",
+                    "children": [
+                        {
+                            "name": "南充",
+                            "value": 51
+                        },
+                        {
+                            "name": "廣安",
+                            "value": 26
+                        },
+                        {
+                            "name": "西充",
+                            "value": 7
+                        },
+                        {
+                            "name": "營山",
+                            "value": 2
+                        },
+                        {
+                            "name": "蓬州",
+                            "value": 1
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "渠縣",
+                            "value": 1
+                        }
+                    ],
+                    "value": 89
+                },
+                {
+                    "name": "嘉定",
+                    "children": [
+                        {
+                            "name": "眉州",
+                            "value": 31
+                        },
+                        {
+                            "name": "其他",
+                            "value": 13
+                        },
+                        {
+                            "name": "夾江",
+                            "value": 6
+                        },
+                        {
+                            "name": "榮縣",
+                            "value": 5
+                        },
+                        {
+                            "name": "犍為",
+                            "value": 4
+                        },
+                        {
+                            "name": "威遠",
+                            "value": 3
+                        },
+                        {
+                            "name": "洪雅",
+                            "value": 3
+                        },
+                        {
+                            "name": "峨眉",
+                            "value": 3
+                        },
+                        {
+                            "name": "莆江",
+                            "value": 1
+                        },
+                        {
+                            "name": "邛縣",
+                            "value": 1
+                        },
+                        {
+                            "name": "嘉定",
+                            "value": 1
+                        }
+                    ],
+                    "value": 71
+                },
+                {
+                    "name": "潼川",
+                    "children": [
+                        {
+                            "name": "遂寧",
+                            "value": 18
+                        },
+                        {
+                            "name": "其他",
+                            "value": 9
+                        },
+                        {
+                            "name": "安岳",
+                            "value": 8
+                        },
+                        {
+                            "name": "射洪",
+                            "value": 5
+                        },
+                        {
+                            "name": "蓬溪",
+                            "value": 5
+                        },
+                        {
+                            "name": "中江",
+                            "value": 4
+                        },
+                        {
+                            "name": "樂至",
+                            "value": 1
+                        }
+                    ],
+                    "value": 50
+                },
+                {
+                    "name": "瀘州",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 31
+                        },
+                        {
+                            "name": "合江",
+                            "value": 6
+                        }
+                    ],
+                    "value": 37
+                },
+                {
+                    "name": "保寧",
+                    "children": [
+                        {
+                            "name": "閬中",
+                            "value": 9
+                        },
+                        {
+                            "name": "劍州",
+                            "value": 8
+                        },
+                        {
+                            "name": "南部",
+                            "value": 6
+                        },
+                        {
+                            "name": "巴縣",
+                            "value": 4
+                        },
+                        {
+                            "name": "蒼溪",
+                            "value": 4
+                        },
+                        {
+                            "name": "通江",
+                            "value": 1
+                        }
+                    ],
+                    "value": 32
+                },
+                {
+                    "name": "夔州",
+                    "children": [
+                        {
+                            "name": "達州",
+                            "value": 4
+                        },
+                        {
+                            "name": "達縣",
+                            "value": 3
+                        },
+                        {
+                            "name": "梁山",
+                            "value": 2
+                        },
+                        {
+                            "name": "雲陽",
+                            "value": 2
+                        },
+                        {
+                            "name": "巫山",
+                            "value": 2
+                        },
+                        {
+                            "name": "開縣",
+                            "value": 1
+                        },
+                        {
+                            "name": "東鄉",
+                            "value": 1
+                        },
+                        {
+                            "name": "新寧",
+                            "value": 1
+                        },
+                        {
+                            "name": "大寧",
+                            "value": 1
+                        },
+                        {
+                            "name": "萬縣",
+                            "value": 1
+                        }
+                    ],
+                    "value": 18
+                },
+                {
+                    "name": "其他",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 5
+                        }
+                    ],
+                    "value": 5
+                },
+                {
+                    "name": "馬湖",
+                    "children": [
+                        {
+                            "name": "平夷",
+                            "value": 1
+                        }
+                    ],
+                    "value": 1
+                }
+            ],
+            "value": 815
+        },
+        {
+            "name": "湖廣",
+            "children": [
+                {
+                    "name": "黃州",
+                    "children": [
+                        {
+                            "name": "麻城",
+                            "value": 55
+                        },
+                        {
+                            "name": "黃岡",
+                            "value": 34
+                        },
+                        {
+                            "name": "蘄州",
+                            "value": 28
+                        },
+                        {
+                            "name": "蘄水",
+                            "value": 18
+                        },
+                        {
+                            "name": "黃陂",
+                            "value": 8
+                        },
+                        {
+                            "name": "羅田",
+                            "value": 3
+                        },
+                        {
+                            "name": "鄿州",
+                            "value": 2
+                        }
+                    ],
+                    "value": 148
+                },
+                {
+                    "name": "武昌",
+                    "children": [
+                        {
+                            "name": "江夏",
+                            "value": 24
+                        },
+                        {
+                            "name": "蒲圻",
+                            "value": 23
+                        },
+                        {
+                            "name": "興國",
+                            "value": 22
+                        },
+                        {
+                            "name": "崇陽",
+                            "value": 14
+                        },
+                        {
+                            "name": "嘉魚",
+                            "value": 9
+                        },
+                        {
+                            "name": "咸寧",
+                            "value": 7
+                        },
+                        {
+                            "name": "武昌",
+                            "value": 4
+                        },
+                        {
+                            "name": "通城",
+                            "value": 1
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "長史",
+                            "value": 1
+                        }
+                    ],
+                    "value": 106
+                },
+                {
+                    "name": "荊州",
+                    "children": [
+                        {
+                            "name": "江陵",
+                            "value": 28
+                        },
+                        {
+                            "name": "石首",
+                            "value": 25
+                        },
+                        {
+                            "name": "公安",
+                            "value": 16
+                        },
+                        {
+                            "name": "夷陵",
+                            "value": 7
+                        },
+                        {
+                            "name": "監利",
+                            "value": 6
+                        },
+                        {
+                            "name": "松滋",
+                            "value": 4
+                        },
+                        {
+                            "name": "潛江",
+                            "value": 3
+                        },
+                        {
+                            "name": "荊門",
+                            "value": 1
+                        }
+                    ],
+                    "value": 90
+                },
+                {
+                    "name": "長沙",
+                    "children": [
+                        {
+                            "name": "湘陰",
+                            "value": 12
+                        },
+                        {
+                            "name": "攸縣",
+                            "value": 11
+                        },
+                        {
+                            "name": "茶陵",
+                            "value": 10
+                        },
+                        {
+                            "name": "長沙",
+                            "value": 10
+                        },
+                        {
+                            "name": "湘潭",
+                            "value": 6
+                        },
+                        {
+                            "name": "醴陵",
+                            "value": 4
+                        },
+                        {
+                            "name": "益陽",
+                            "value": 4
+                        },
+                        {
+                            "name": "湘鄉",
+                            "value": 2
+                        },
+                        {
+                            "name": "寧鄉",
+                            "value": 2
+                        },
+                        {
+                            "name": "瀏陽",
+                            "value": 2
+                        },
+                        {
+                            "name": "儀衛",
+                            "value": 1
+                        },
+                        {
+                            "name": "安化",
+                            "value": 1
+                        },
+                        {
+                            "name": "善化",
+                            "value": 1
+                        }
+                    ],
+                    "value": 66
+                },
+                {
+                    "name": "承天",
+                    "children": [
+                        {
+                            "name": "沔陽",
+                            "value": 26
+                        },
+                        {
+                            "name": "安陸",
+                            "value": 22
+                        },
+                        {
+                            "name": "潛江",
+                            "value": 9
+                        },
+                        {
+                            "name": "鍾祥",
+                            "value": 6
+                        }
+                    ],
+                    "value": 63
+                },
+                {
+                    "name": "岳州",
+                    "children": [
+                        {
+                            "name": "巴陵",
+                            "value": 19
+                        },
+                        {
+                            "name": "華容",
+                            "value": 18
+                        },
+                        {
+                            "name": "澧州",
+                            "value": 5
+                        },
+                        {
+                            "name": "澤州",
+                            "value": 1
+                        }
+                    ],
+                    "value": 43
+                },
+                {
+                    "name": "德安",
+                    "children": [
+                        {
+                            "name": "應城",
+                            "value": 12
+                        },
+                        {
+                            "name": "孝感",
+                            "value": 8
+                        },
+                        {
+                            "name": "隨州",
+                            "value": 6
+                        },
+                        {
+                            "name": "雲夢",
+                            "value": 5
+                        },
+                        {
+                            "name": "安陸",
+                            "value": 3
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        }
+                    ],
+                    "value": 35
+                },
+                {
+                    "name": "郴州",
+                    "children": [
+                        {
+                            "name": "永興",
+                            "value": 10
+                        },
+                        {
+                            "name": "桂陽",
+                            "value": 9
+                        },
+                        {
+                            "name": "興寧",
+                            "value": 6
+                        },
+                        {
+                            "name": "其他",
+                            "value": 5
+                        },
+                        {
+                            "name": "宜章",
+                            "value": 2
+                        }
+                    ],
+                    "value": 32
+                },
+                {
+                    "name": "衡州",
+                    "children": [
+                        {
+                            "name": "衡陽",
+                            "value": 11
+                        },
+                        {
+                            "name": "桂陽",
+                            "value": 8
+                        },
+                        {
+                            "name": "耒陽",
+                            "value": 5
+                        },
+                        {
+                            "name": "衡山",
+                            "value": 4
+                        },
+                        {
+                            "name": "酃縣",
+                            "value": 2
+                        },
+                        {
+                            "name": "安仁",
+                            "value": 1
+                        }
+                    ],
+                    "value": 31
+                },
+                {
+                    "name": "常德",
+                    "children": [
+                        {
+                            "name": "武陵",
+                            "value": 19
+                        },
+                        {
+                            "name": "龍陽",
+                            "value": 5
+                        },
+                        {
+                            "name": "桃源",
+                            "value": 4
+                        }
+                    ],
+                    "value": 28
+                },
+                {
+                    "name": "永州",
+                    "children": [
+                        {
+                            "name": "道州",
+                            "value": 16
+                        },
+                        {
+                            "name": "祁陽",
+                            "value": 7
+                        },
+                        {
+                            "name": "零陵",
+                            "value": 4
+                        }
+                    ],
+                    "value": 27
+                },
+                {
+                    "name": "襄陽",
+                    "children": [
+                        {
+                            "name": "襄陽",
+                            "value": 11
+                        },
+                        {
+                            "name": "棗陽",
+                            "value": 6
+                        },
+                        {
+                            "name": "南漳",
+                            "value": 3
+                        },
+                        {
+                            "name": "儀衛",
+                            "value": 2
+                        },
+                        {
+                            "name": "穀城",
+                            "value": 1
+                        },
+                        {
+                            "name": "均州",
+                            "value": 1
+                        },
+                        {
+                            "name": "宜城",
+                            "value": 1
+                        },
+                        {
+                            "name": "光化",
+                            "value": 1
+                        }
+                    ],
+                    "value": 26
+                },
+                {
+                    "name": "辰州",
+                    "children": [
+                        {
+                            "name": "沅陵",
+                            "value": 7
+                        },
+                        {
+                            "name": "盧溪",
+                            "value": 4
+                        },
+                        {
+                            "name": "沅州",
+                            "value": 4
+                        },
+                        {
+                            "name": "湘潭",
+                            "value": 2
+                        },
+                        {
+                            "name": "漵浦",
+                            "value": 1
+                        }
+                    ],
+                    "value": 18
+                },
+                {
+                    "name": "漢陽",
+                    "children": [
+                        {
+                            "name": "漢陽",
+                            "value": 10
+                        },
+                        {
+                            "name": "漢川",
+                            "value": 4
+                        }
+                    ],
+                    "value": 14
+                },
+                {
+                    "name": "寶慶",
+                    "children": [
+                        {
+                            "name": "邵陽",
+                            "value": 5
+                        },
+                        {
+                            "name": "新化",
+                            "value": 2
+                        },
+                        {
+                            "name": "武岡",
+                            "value": 2
+                        }
+                    ],
+                    "value": 9
+                },
+                {
+                    "name": "其他",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 4
+                        }
+                    ],
+                    "value": 4
+                }
+            ],
+            "value": 740
+        },
+        {
+            "name": "山西",
+            "children": [
+                {
+                    "name": "平陽",
+                    "children": [
+                        {
+                            "name": "蒲州",
+                            "value": 61
+                        },
+                        {
+                            "name": "解州",
+                            "value": 52
+                        },
+                        {
+                            "name": "臨汾",
+                            "value": 26
+                        },
+                        {
+                            "name": "絳州",
+                            "value": 24
+                        },
+                        {
+                            "name": "曲沃",
+                            "value": 14
+                        },
+                        {
+                            "name": "洪洞",
+                            "value": 14
+                        },
+                        {
+                            "name": "太平",
+                            "value": 7
+                        },
+                        {
+                            "name": "襄陵",
+                            "value": 6
+                        },
+                        {
+                            "name": "翼城",
+                            "value": 5
+                        },
+                        {
+                            "name": "觧州",
+                            "value": 5
+                        },
+                        {
+                            "name": "趙城",
+                            "value": 4
+                        },
+                        {
+                            "name": "霍州",
+                            "value": 3
+                        },
+                        {
+                            "name": "吉州",
+                            "value": 3
+                        },
+                        {
+                            "name": "夏縣",
+                            "value": 2
+                        },
+                        {
+                            "name": "平陸",
+                            "value": 2
+                        },
+                        {
+                            "name": "鄉寧",
+                            "value": 2
+                        },
+                        {
+                            "name": "浮山",
+                            "value": 1
+                        },
+                        {
+                            "name": "沁水",
+                            "value": 1
+                        },
+                        {
+                            "name": "陽城",
+                            "value": 1
+                        },
+                        {
+                            "name": "和順",
+                            "value": 1
+                        }
+                    ],
+                    "value": 234
+                },
+                {
+                    "name": "太原",
+                    "children": [
+                        {
+                            "name": "陽曲",
+                            "value": 40
+                        },
+                        {
+                            "name": "代州",
+                            "value": 26
+                        },
+                        {
+                            "name": "石州",
+                            "value": 21
+                        },
+                        {
+                            "name": "平定",
+                            "value": 18
+                        },
+                        {
+                            "name": "忻州",
+                            "value": 14
+                        },
+                        {
+                            "name": "榆次",
+                            "value": 12
+                        },
+                        {
+                            "name": "祁縣",
+                            "value": 6
+                        },
+                        {
+                            "name": "平定州",
+                            "value": 6
+                        },
+                        {
+                            "name": "清源",
+                            "value": 6
+                        },
+                        {
+                            "name": "岢嵐",
+                            "value": 5
+                        },
+                        {
+                            "name": "交城",
+                            "value": 5
+                        },
+                        {
+                            "name": "文水",
+                            "value": 5
+                        },
+                        {
+                            "name": "盂縣",
+                            "value": 5
+                        },
+                        {
+                            "name": "太原",
+                            "value": 4
+                        },
+                        {
+                            "name": "太谷",
+                            "value": 4
+                        },
+                        {
+                            "name": "永寧州",
+                            "value": 3
+                        },
+                        {
+                            "name": "河曲",
+                            "value": 2
+                        },
+                        {
+                            "name": "徐溝",
+                            "value": 2
+                        },
+                        {
+                            "name": "曲陽",
+                            "value": 2
+                        },
+                        {
+                            "name": "其他",
+                            "value": 2
+                        },
+                        {
+                            "name": "孟縣",
+                            "value": 2
+                        },
+                        {
+                            "name": "壽陽",
+                            "value": 2
+                        },
+                        {
+                            "name": "崞縣",
+                            "value": 1
+                        },
+                        {
+                            "name": "車定州",
+                            "value": 1
+                        }
+                    ],
+                    "value": 194
+                },
+                {
+                    "name": "澤州",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 26
+                        },
+                        {
+                            "name": "陽城",
+                            "value": 19
+                        },
+                        {
+                            "name": "高平",
+                            "value": 16
+                        },
+                        {
+                            "name": "沁水",
+                            "value": 12
+                        },
+                        {
+                            "name": "陵川",
+                            "value": 3
+                        },
+                        {
+                            "name": "靈川",
+                            "value": 2
+                        }
+                    ],
+                    "value": 78
+                },
+                {
+                    "name": "潞安",
+                    "children": [
+                        {
+                            "name": "長治",
+                            "value": 20
+                        },
+                        {
+                            "name": "屯留",
+                            "value": 9
+                        },
+                        {
+                            "name": "襄垣",
+                            "value": 8
+                        },
+                        {
+                            "name": "其他",
+                            "value": 7
+                        },
+                        {
+                            "name": "壺關",
+                            "value": 5
+                        },
+                        {
+                            "name": "長子",
+                            "value": 4
+                        },
+                        {
+                            "name": "潞城",
+                            "value": 3
+                        },
+                        {
+                            "name": "陵川",
+                            "value": 3
+                        },
+                        {
+                            "name": "黎城",
+                            "value": 3
+                        }
+                    ],
+                    "value": 62
+                },
+                {
+                    "name": "大同",
+                    "children": [
+                        {
+                            "name": "大同",
+                            "value": 16
+                        },
+                        {
+                            "name": "應州",
+                            "value": 9
+                        },
+                        {
+                            "name": "蔚州",
+                            "value": 6
+                        },
+                        {
+                            "name": "懷仁",
+                            "value": 5
+                        },
+                        {
+                            "name": "渾源",
+                            "value": 3
+                        },
+                        {
+                            "name": "其他",
+                            "value": 2
+                        },
+                        {
+                            "name": "朔州",
+                            "value": 2
+                        }
+                    ],
+                    "value": 43
+                },
+                {
+                    "name": "汾州",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 11
+                        },
+                        {
+                            "name": "孝義",
+                            "value": 9
+                        },
+                        {
+                            "name": "平遙",
+                            "value": 4
+                        },
+                        {
+                            "name": "介休",
+                            "value": 2
+                        }
+                    ],
+                    "value": 26
+                },
+                {
+                    "name": "遼州",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 5
+                        },
+                        {
+                            "name": "榆社",
+                            "value": 4
+                        },
+                        {
+                            "name": "和順",
+                            "value": 1
+                        },
+                        {
+                            "name": "榆林",
+                            "value": 1
+                        }
+                    ],
+                    "value": 11
+                },
+                {
+                    "name": "其他",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 9
+                        }
+                    ],
+                    "value": 9
+                },
+                {
+                    "name": "沁州",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 4
+                        },
+                        {
+                            "name": "武鄉",
+                            "value": 3
+                        }
+                    ],
+                    "value": 7
+                }
+            ],
+            "value": 664
+        },
+        {
+            "name": "陝西",
+            "children": [
+                {
+                    "name": "西安",
+                    "children": [
+                        {
+                            "name": "華州",
+                            "value": 62
+                        },
+                        {
+                            "name": "同州",
+                            "value": 50
+                        },
+                        {
+                            "name": "咸寧",
+                            "value": 44
+                        },
+                        {
+                            "name": "耀州",
+                            "value": 36
+                        },
+                        {
+                            "name": "涇陽",
+                            "value": 34
+                        },
+                        {
+                            "name": "乾州",
+                            "value": 27
+                        },
+                        {
+                            "name": "長安",
+                            "value": 26
+                        },
+                        {
+                            "name": "盩厔",
+                            "value": 15
+                        },
+                        {
+                            "name": "邠州",
+                            "value": 11
+                        },
+                        {
+                            "name": "臨潼",
+                            "value": 9
+                        },
+                        {
+                            "name": "高陵",
+                            "value": 8
+                        },
+                        {
+                            "name": "藍田",
+                            "value": 6
+                        },
+                        {
+                            "name": "興平",
+                            "value": 5
+                        },
+                        {
+                            "name": "咸陽",
+                            "value": 4
+                        },
+                        {
+                            "name": "商州",
+                            "value": 3
+                        },
+                        {
+                            "name": "蕪州",
+                            "value": 1
+                        },
+                        {
+                            "name": "商縣",
+                            "value": 1
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "鄠縣",
+                            "value": 1
+                        },
+                        {
+                            "name": "義安",
+                            "value": 1
+                        },
+                        {
+                            "name": "範州",
+                            "value": 1
+                        }
+                    ],
+                    "value": 346
+                },
+                {
+                    "name": "鳳翔",
+                    "children": [
+                        {
+                            "name": "鳳翔",
+                            "value": 16
+                        },
+                        {
+                            "name": "岐山",
+                            "value": 10
+                        },
+                        {
+                            "name": "寶雞",
+                            "value": 6
+                        },
+                        {
+                            "name": "隴州",
+                            "value": 5
+                        },
+                        {
+                            "name": "麟遊",
+                            "value": 4
+                        },
+                        {
+                            "name": "扶風",
+                            "value": 2
+                        }
+                    ],
+                    "value": 43
+                },
+                {
+                    "name": "延安",
+                    "children": [
+                        {
+                            "name": "綏德",
+                            "value": 16
+                        },
+                        {
+                            "name": "鄜州",
+                            "value": 7
+                        },
+                        {
+                            "name": "膚施",
+                            "value": 6
+                        },
+                        {
+                            "name": "保安",
+                            "value": 4
+                        },
+                        {
+                            "name": "宜川",
+                            "value": 3
+                        },
+                        {
+                            "name": "甘泉",
+                            "value": 1
+                        },
+                        {
+                            "name": "安定",
+                            "value": 1
+                        }
+                    ],
+                    "value": 38
+                },
+                {
+                    "name": "鞏昌",
+                    "children": [
+                        {
+                            "name": "安定",
+                            "value": 8
+                        },
+                        {
+                            "name": "隴西",
+                            "value": 6
+                        },
+                        {
+                            "name": "秦州",
+                            "value": 3
+                        },
+                        {
+                            "name": "通渭",
+                            "value": 2
+                        },
+                        {
+                            "name": "會寧",
+                            "value": 2
+                        },
+                        {
+                            "name": "泰州",
+                            "value": 1
+                        },
+                        {
+                            "name": "徽州",
+                            "value": 1
+                        },
+                        {
+                            "name": "成縣",
+                            "value": 1
+                        }
+                    ],
+                    "value": 24
+                },
+                {
+                    "name": "漢中",
+                    "children": [
+                        {
+                            "name": "南鄭",
+                            "value": 9
+                        },
+                        {
+                            "name": "金州",
+                            "value": 4
+                        },
+                        {
+                            "name": "城固",
+                            "value": 2
+                        },
+                        {
+                            "name": "洋縣",
+                            "value": 2
+                        },
+                        {
+                            "name": "褒城",
+                            "value": 1
+                        }
+                    ],
+                    "value": 18
+                },
+                {
+                    "name": "臨洮",
+                    "children": [
+                        {
+                            "name": "蘭縣",
+                            "value": 6
+                        },
+                        {
+                            "name": "狄道",
+                            "value": 5
+                        },
+                        {
+                            "name": "河州",
+                            "value": 1
+                        },
+                        {
+                            "name": "蘭州",
+                            "value": 1
+                        }
+                    ],
+                    "value": 13
+                },
+                {
+                    "name": "慶陽",
+                    "children": [
+                        {
+                            "name": "安化",
+                            "value": 5
+                        },
+                        {
+                            "name": "寧州",
+                            "value": 5
+                        },
+                        {
+                            "name": "合水",
+                            "value": 1
+                        },
+                        {
+                            "name": "環縣",
+                            "value": 1
+                        }
+                    ],
+                    "value": 12
+                },
+                {
+                    "name": "平涼",
+                    "children": [
+                        {
+                            "name": "涇州",
+                            "value": 6
+                        },
+                        {
+                            "name": "平涼",
+                            "value": 2
+                        },
+                        {
+                            "name": "鎮原",
+                            "value": 2
+                        },
+                        {
+                            "name": "隆德",
+                            "value": 1
+                        },
+                        {
+                            "name": "靜寧",
+                            "value": 1
+                        }
+                    ],
+                    "value": 12
+                },
+                {
+                    "name": "其他",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 3
+                        }
+                    ],
+                    "value": 3
+                },
+                {
+                    "name": "河州",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 1
+                        }
+                    ],
+                    "value": 1
+                }
+            ],
+            "value": 510
+        },
+        {
+            "name": "廣東",
+            "children": [
+                {
+                    "name": "廣州",
+                    "children": [
+                        {
+                            "name": "南海",
+                            "value": 86
+                        },
+                        {
+                            "name": "順德",
+                            "value": 53
+                        },
+                        {
+                            "name": "番禺",
+                            "value": 46
+                        },
+                        {
+                            "name": "東莞",
+                            "value": 43
+                        },
+                        {
+                            "name": "新會",
+                            "value": 19
+                        },
+                        {
+                            "name": "香山",
+                            "value": 5
+                        },
+                        {
+                            "name": "增城",
+                            "value": 5
+                        },
+                        {
+                            "name": "從化",
+                            "value": 5
+                        },
+                        {
+                            "name": "三水",
+                            "value": 2
+                        },
+                        {
+                            "name": "清遠",
+                            "value": 2
+                        },
+                        {
+                            "name": "連州",
+                            "value": 1
+                        },
+                        {
+                            "name": "新安",
+                            "value": 1
+                        }
+                    ],
+                    "value": 268
+                },
+                {
+                    "name": "潮州",
+                    "children": [
+                        {
+                            "name": "海陽",
+                            "value": 35
+                        },
+                        {
+                            "name": "潮陽",
+                            "value": 21
+                        },
+                        {
+                            "name": "揭陽",
+                            "value": 19
+                        },
+                        {
+                            "name": "饒平",
+                            "value": 7
+                        },
+                        {
+                            "name": "大埔",
+                            "value": 3
+                        },
+                        {
+                            "name": "澄海",
+                            "value": 3
+                        },
+                        {
+                            "name": "程鄉",
+                            "value": 2
+                        }
+                    ],
+                    "value": 90
+                },
+                {
+                    "name": "瓊州",
+                    "children": [
+                        {
+                            "name": "瓊山",
+                            "value": 18
+                        },
+                        {
+                            "name": "文昌",
+                            "value": 5
+                        },
+                        {
+                            "name": "定安",
+                            "value": 2
+                        },
+                        {
+                            "name": "崖州",
+                            "value": 1
+                        }
+                    ],
+                    "value": 26
+                },
+                {
+                    "name": "惠州",
+                    "children": [
+                        {
+                            "name": "博羅",
+                            "value": 11
+                        },
+                        {
+                            "name": "歸善",
+                            "value": 8
+                        },
+                        {
+                            "name": "海豐",
+                            "value": 2
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "河源",
+                            "value": 1
+                        }
+                    ],
+                    "value": 23
+                },
+                {
+                    "name": "肇慶",
+                    "children": [
+                        {
+                            "name": "高要",
+                            "value": 8
+                        },
+                        {
+                            "name": "四會",
+                            "value": 7
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        },
+                        {
+                            "name": "德慶",
+                            "value": 1
+                        },
+                        {
+                            "name": "高明",
+                            "value": 1
+                        }
+                    ],
+                    "value": 18
+                },
+                {
+                    "name": "高州",
+                    "children": [
+                        {
+                            "name": "茂名",
+                            "value": 4
+                        },
+                        {
+                            "name": "代州",
+                            "value": 2
+                        },
+                        {
+                            "name": "化州",
+                            "value": 2
+                        },
+                        {
+                            "name": "信宜",
+                            "value": 1
+                        },
+                        {
+                            "name": "電白",
+                            "value": 1
+                        }
+                    ],
+                    "value": 10
+                },
+                {
+                    "name": "廉州",
+                    "children": [
+                        {
+                            "name": "石康",
+                            "value": 2
+                        },
+                        {
+                            "name": "合浦",
+                            "value": 2
+                        }
+                    ],
+                    "value": 4
+                },
+                {
+                    "name": "南雄",
+                    "children": [
+                        {
+                            "name": "保昌",
+                            "value": 2
+                        },
+                        {
+                            "name": "始興",
+                            "value": 1
+                        }
+                    ],
+                    "value": 3
+                },
+                {
+                    "name": "其他",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 3
+                        }
+                    ],
+                    "value": 3
+                },
+                {
+                    "name": "韶州",
+                    "children": [
+                        {
+                            "name": "英德",
+                            "value": 2
+                        },
+                        {
+                            "name": "樂昌",
+                            "value": 1
+                        }
+                    ],
+                    "value": 3
+                },
+                {
+                    "name": "雷州",
+                    "children": [
+                        {
+                            "name": "海康",
+                            "value": 1
+                        },
+                        {
+                            "name": "徐聞",
+                            "value": 1
+                        }
+                    ],
+                    "value": 2
+                }
+            ],
+            "value": 450
+        },
+        {
+            "name": "未知",
+            "children": [
+                {
+                    "name": "未知",
+                    "children": [
+                        {
+                            "name": "未知",
+                            "value": 393
+                        }
+                    ],
+                    "value": 393
+                }
+            ],
+            "value": 393
+        },
+        {
+            "name": "衛所",
+            "children": [
+                {
+                    "name": "衛",
+                    "children": [
+                        {
+                            "name": "衛",
+                            "value": 289
+                        }
+                    ],
+                    "value": 289
+                },
+                {
+                    "name": "所",
+                    "children": [
+                        {
+                            "name": "所",
+                            "value": 55
+                        }
+                    ],
+                    "value": 55
+                }
+            ],
+            "value": 344
+        },
+        {
+            "name": "廣西",
+            "children": [
+                {
+                    "name": "桂林",
+                    "children": [
+                        {
+                            "name": "全州",
+                            "value": 18
+                        },
+                        {
+                            "name": "臨桂",
+                            "value": 15
+                        },
+                        {
+                            "name": "陽朔",
+                            "value": 4
+                        },
+                        {
+                            "name": "靈川",
+                            "value": 2
+                        },
+                        {
+                            "name": "永福",
+                            "value": 1
+                        },
+                        {
+                            "name": "灌陽",
+                            "value": 1
+                        },
+                        {
+                            "name": "義寧",
+                            "value": 1
+                        }
+                    ],
+                    "value": 42
+                },
+                {
+                    "name": "柳州",
+                    "children": [
+                        {
+                            "name": "馬平",
+                            "value": 9
+                        },
+                        {
+                            "name": "融縣",
+                            "value": 4
+                        },
+                        {
+                            "name": "賓州",
+                            "value": 3
+                        },
+                        {
+                            "name": "柳城",
+                            "value": 1
+                        }
+                    ],
+                    "value": 17
+                },
+                {
+                    "name": "梧州",
+                    "children": [
+                        {
+                            "name": "蒼梧",
+                            "value": 5
+                        },
+                        {
+                            "name": "藤縣",
+                            "value": 2
+                        },
+                        {
+                            "name": "鬱林",
+                            "value": 2
+                        },
+                        {
+                            "name": "懷集",
+                            "value": 1
+                        },
+                        {
+                            "name": "容縣",
+                            "value": 1
+                        }
+                    ],
+                    "value": 11
+                },
+                {
+                    "name": "潯州",
+                    "children": [
+                        {
+                            "name": "桂平",
+                            "value": 2
+                        },
+                        {
+                            "name": "平南",
+                            "value": 2
+                        },
+                        {
+                            "name": "貴縣",
+                            "value": 1
+                        }
+                    ],
+                    "value": 5
+                },
+                {
+                    "name": "南寧",
+                    "children": [
+                        {
+                            "name": "橫州",
+                            "value": 3
+                        },
+                        {
+                            "name": "宣化",
+                            "value": 1
+                        }
+                    ],
+                    "value": 4
+                },
+                {
+                    "name": "慶遠",
+                    "children": [
+                        {
+                            "name": "宜山",
+                            "value": 4
+                        }
+                    ],
+                    "value": 4
+                },
+                {
+                    "name": "平樂",
+                    "children": [
+                        {
+                            "name": "平樂",
+                            "value": 3
+                        }
+                    ],
+                    "value": 3
+                },
+                {
+                    "name": "太平",
+                    "children": [
+                        {
+                            "name": "崇善",
+                            "value": 1
+                        }
+                    ],
+                    "value": 1
+                }
+            ],
+            "value": 87
+        },
+        {
+            "name": "雲南",
+            "children": [
+                {
+                    "name": "大理",
+                    "children": [
+                        {
+                            "name": "太和",
+                            "value": 26
+                        },
+                        {
+                            "name": "鄧川",
+                            "value": 1
+                        }
+                    ],
+                    "value": 27
+                },
+                {
+                    "name": "臨安",
+                    "children": [
+                        {
+                            "name": "寧州",
+                            "value": 3
+                        },
+                        {
+                            "name": "建水",
+                            "value": 2
+                        },
+                        {
+                            "name": "石屏",
+                            "value": 1
+                        },
+                        {
+                            "name": "蒙自",
+                            "value": 1
+                        }
+                    ],
+                    "value": 7
+                },
+                {
+                    "name": "雲南",
+                    "children": [
+                        {
+                            "name": "昆明",
+                            "value": 2
+                        },
+                        {
+                            "name": "嵩明",
+                            "value": 1
+                        },
+                        {
+                            "name": "安寧",
+                            "value": 1
+                        },
+                        {
+                            "name": "晉寧",
+                            "value": 1
+                        }
+                    ],
+                    "value": 5
+                },
+                {
+                    "name": "其他",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 2
+                        }
+                    ],
+                    "value": 2
+                },
+                {
+                    "name": "鶴慶",
+                    "children": [
+                        {
+                            "name": "劍川",
+                            "value": 1
+                        },
+                        {
+                            "name": "其他",
+                            "value": 1
+                        }
+                    ],
+                    "value": 2
+                },
+                {
+                    "name": "姚安",
+                    "children": [
+                        {
+                            "name": "姚州",
+                            "value": 1
+                        }
+                    ],
+                    "value": 1
+                },
+                {
+                    "name": "永昌",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 1
+                        }
+                    ],
+                    "value": 1
+                },
+                {
+                    "name": "澂江",
+                    "children": [
+                        {
+                            "name": "河陽",
+                            "value": 1
+                        }
+                    ],
+                    "value": 1
+                }
+            ],
+            "value": 46
+        },
+        {
+            "name": "交阯",
+            "children": [
+                {
+                    "name": "交州",
+                    "children": [
+                        {
+                            "name": "清威",
+                            "value": 1
+                        },
+                        {
+                            "name": "扶寧",
+                            "value": 1
+                        }
+                    ],
+                    "value": 2
+                },
+                {
+                    "name": "新安",
+                    "children": [
+                        {
+                            "name": "多翼",
+                            "value": 1
+                        }
+                    ],
+                    "value": 1
+                },
+                {
+                    "name": "北江",
+                    "children": [
+                        {
+                            "name": "武寧州",
+                            "value": 1
+                        }
+                    ],
+                    "value": 1
+                },
+                {
+                    "name": "其他",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 1
+                        }
+                    ],
+                    "value": 1
+                }
+            ],
+            "value": 5
+        },
+        {
+            "name": "貴州",
+            "children": [
+                {
+                    "name": "其他",
+                    "children": [
+                        {
+                            "name": "其他",
+                            "value": 2
+                        }
+                    ],
+                    "value": 2
+                },
+                {
+                    "name": "思南",
+                    "children": [
+                        {
+                            "name": "水德",
+                            "value": 1
+                        },
+                        {
+                            "name": "婺川",
+                            "value": 1
+                        }
+                    ],
+                    "value": 2
+                }
+            ],
+            "value": 4
+        }
+    ],
+    "value": 14116
+}
