@@ -1,7 +1,7 @@
 var _width = $(window).width();
 var _height = $(window).height();
-var width = _width;
-var height = _height;
+var width = 1420.3677;
+var height = 805;
 
 var data = null;
 var data_file_si = "./data/si_data.json";
@@ -42,7 +42,7 @@ function treemap(data, width, height) {
 				rmin = Infinity,
 				s = 0;
 			for (var i in row) {
-				var r = row[i].value * 125;
+				var r = row[i].value * 81;
 				s += r;
 				if (r > rmax) rmax = r;
 				if (r < rmin) rmin = r;
@@ -59,7 +59,7 @@ function treemap(data, width, height) {
 
 			var sum = 0;
 			for (var i in row)
-				sum += row[i].value * 125;
+				sum += row[i].value * 81;
 			var ext = sum / w;
 			if (Math.abs(w - rwidth) <= 1e-6) {
 				rheight -= ext;
@@ -72,7 +72,7 @@ function treemap(data, width, height) {
 			for (var i in row) {
 				if (direction == 0) {
 					var hh = ext,
-						ww = row[i].value * 125 / ext;
+						ww = row[i].value * 81 / ext;
 					var node = {
 						x: lx,
 						y: ly,
@@ -83,7 +83,7 @@ function treemap(data, width, height) {
 					lx += ww;
 				} else {
 					var ww = ext,
-						hh = row[i].value * 125 / ext;
+						hh = row[i].value * 81 / ext;
 					var node = {
 						x: lx,
 						y: ly,
@@ -145,7 +145,7 @@ function treemap(data, width, height) {
 
 	}
 
-	calcPos(data, 0, 0, width, height, -1);
+	calcPos(data, (_width-width)/2, 0, width, height, -1);
 
 	return leaves;
 }
@@ -232,21 +232,15 @@ function _treemap(data, width, height) {
 function drawTreemap(tag) {
 	// 计算布局
 	// console.log(data);
-	// var leaves = treemap(data, width, height);
-	// var leaves = treemap(data, 1397.19, 684.323);
-	// var leaves = treemap(data, 1411.6, 1000);
-	// var f = 4/9;
-	// var leaves = treemap(data, 1568+f, 900);
-	// var leaves = treemap(data, 1764.5, 800);
-	var leaves = treemap(data, 1764.5, 1000);
+	var leaves = treemap(data, width, height);
 	// console.log(leaves);
 
 	// 绘制
 	var svg = d3
 		.select(tag)
 		.append("svg")
-		.attr("width", width)
-		.attr("height", height);
+		.attr("width", _width)
+		.attr("height", _height);
 
 	// 定义颜色比例尺
 	// var color = d3.scaleOrdinal(d3.schemeCategory10)

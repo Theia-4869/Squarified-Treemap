@@ -22,3 +22,6 @@ This folder contains scripts for processing  raw data.
 
 ## Treemap
 This folder is the main folder that implements the squarified treemap algorithm, it is organized as a standard HTML file, where the index.html file is the web page rendered for the final visualization result.
+
+## Visualization
+![](figure.png)

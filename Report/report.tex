@@ -61,7 +61,7 @@
 	本次可视化算法Squarified Treemap处理的是层次数据，根据首个工作表中的各项目属性，选择籍贯一项进行处理。明代的行政区划大致可分为司府州县4级与司州县、司府州3级两种制度并存，在本次作业中主要将籍贯按照级别划分为3类：司、府(州)、州(县)，府与州合并，将直隶州与府视为同一级别处理，州与县合并，县归属于非直隶的州管理，无归属的则视为与州同一级别的独立行政单位。此外，明代还设有专门的军籍制度，下设卫、所，本次作业将卫所合并视为与司同一级的行政单位，而分别视为与府同一级的行政单位，以下不分(许多带有地域的卫所的治所并不在当地，因此将其划为当地也不妥)。
 	
 	\subsection{数据清洗}
-	本次作业在清洗数据时首先将xlsx格式的数据转化为json格式的数据，之后根据各级行政单位逐级拆分，部分含有罕用字的籍贯再安装了Unicode extension A \& B后依然无法读取，这部分籍贯被划为未知(数量较少)，同时有极少数特殊籍贯(如高丽等)也做了同样处理。
+	本次作业在清洗数据时首先将xlsx格式的数据转化为json格式的数据，之后根据各级行政单位逐级拆分，部分含有罕用字的籍贯在安装了Unicode extension A \& B后依然无法读取，这部分籍贯被划为未知(数量较少)，同时有极少数特殊籍贯(如高丽等)也做了同样处理。
 	
 	\hspace*{\fill} \\
 	
@@ -123,6 +123,8 @@
 	
 	\section{可视化结果描述(Visualization Result Description)}
 	\subsection{结果展示}
+	代码库已上传至github: \href{https://github.com/Theia-4869/Squarified-Treemap}{Theia-4869/Squarified-Treemap}。
+	
 	\begin{figure}[H]
 		\centering
 		\includegraphics[width=10cm]{./figures/si_squarified_treemap.png}

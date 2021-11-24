@@ -944,3 +944,20 @@
 [1108/110050.768:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
 [1108/110052.041:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
 [1108/110053.068:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1108/145459.097:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1108/150438.901:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1108/150439.389:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1108/150507.550:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1108/150512.571:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1108/150517.587:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1108/150518.167:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1108/170543.411:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1108/192727.455:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1108/192727.529:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1108/192727.745:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1108/192728.261:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1108/192729.107:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1108/223451.793:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(75,10-46): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(98,10-46): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
